@@ -27,6 +27,15 @@ h2 {
   margin-bottom: 5rem;
 }
 
+.label {
+  color: purple;
+}
+
+.label:hover {
+  color: pink;
+  font-size: 1.3rem;
+}
+
 .twovert {
   height: 50%;
 }
