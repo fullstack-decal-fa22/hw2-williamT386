@@ -193,3 +193,30 @@ h2 {
   background-clip: content-box, padding-box;
   padding: 60px;
 }
+
+.finland-outer {
+  display: flex;
+}
+
+.finland-edge {
+  height: 36.3636%;
+}
+
+#finland-middle {
+  height: 27.2727%;
+}
+
+.finland-inner-left {
+  background-color: white;
+  width: 27.778%;
+}
+
+.finland-inner-middle {
+  background-color: #002F6C;
+  width: 16.6667%;
+}
+
+.finland-inner {
+  background-color: #002F6C;
+  width: 100%;
+}
