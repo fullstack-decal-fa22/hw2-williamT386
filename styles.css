@@ -108,19 +108,16 @@ h2 {
 /* BEGIN QUESTION 2 */
 
 .thailand-red {
-  width: inherit;
   height: 16.66667%;
   background-color: #B5002D;
 }
 
 .thailand-white {
-  width: inherit;
   height: 16.66667%;
   background-color: white;
 }
 
 .thailand-blue {
-  width: inherit;
   height: 33.33333%;
   background-color: #2E2A4C;
 }
