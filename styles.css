@@ -146,7 +146,8 @@ h2 {
 }
 
 .mexico-img {
-  /* TODO */
+  max-height: 100%;
+  align-self: center;
 }
 
 .mexico-red {
