@@ -32,6 +32,8 @@ h2 {
 }
 
 .threevert {
+  height: 33.3333%;
+  width: 100%;
 }
 
 .threehoriz {
@@ -58,6 +60,18 @@ h2 {
 /* Colors */
 
 /* QUESTION 1 */
+
+.red {
+  background-color: red;
+}
+
+#white {
+  background-color: white;
+}
+
+.light-blue {
+  background-color: lightblue;
+}
 
 .orange {
   background-color: orange;
